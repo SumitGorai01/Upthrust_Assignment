@@ -4,6 +4,9 @@
 
 ---
 
+[](./homepage.png)
+[](./historypage.png)
+
 ## ✨ Features
 
 * **AI Agent**: Generates a short tweet-sized response using HuggingFace AI (or mock).
